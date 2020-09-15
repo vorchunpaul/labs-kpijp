@@ -1,0 +1,7 @@
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR3_Mihalsov\primers\pr2\obj\Debug\pr2.csprojAssemblyReference.cache
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR3_Mihalsov\primers\pr2\obj\Debug\pr2.csproj.CoreCompileInputs.cache
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR3_Mihalsov\primers\pr2\bin\Debug\pr2.exe.config
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR3_Mihalsov\primers\pr2\bin\Debug\pr2.exe
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR3_Mihalsov\primers\pr2\bin\Debug\pr2.pdb
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR3_Mihalsov\primers\pr2\obj\Debug\pr2.exe
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR3_Mihalsov\primers\pr2\obj\Debug\pr2.pdb
