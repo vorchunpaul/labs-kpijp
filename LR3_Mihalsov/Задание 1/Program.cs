@@ -1,23 +1,36 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿using System;
 
-namespace _1_WindowsFormsApp
+namespace Задание_1
 {
-    static class Program
+    class Program
     {
-        /// <summary>
-        ///  The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
-            Application.SetHighDpiMode(HighDpiMode.SystemAware);
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            float x;
+            double y;
+
+            Console.Write("Введиете X = ");
+            x = float.Parse(Console.ReadLine());
+
+            if (x <= 0)
+            {
+                y = Math.Exp(2.0 * x);
+                Console.WriteLine("Выбрано условие: x <= 0");
+            }
+            else
+            {
+                if (0.0 < x && x < 7.0)
+                {
+                    y = Math.Sqrt(Math.Abs(Math.Pow(x, 2) - 2));
+                    Console.WriteLine("Выбрано условие: 0 < x < 7");
+                }
+                else
+                {
+                    y = x / 2.0 - Math.Pow(x, 2);
+                    Console.WriteLine("Выбрано условие: Во всех остальных случаях");
+                }
+            }
+            Console.WriteLine("y = {0}", y);
         }
     }
 }

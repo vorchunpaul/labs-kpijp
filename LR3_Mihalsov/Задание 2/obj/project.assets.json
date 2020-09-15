@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vorchun\\Desktop\\labs\\kiap-labs\\LR3_Mihalsov\\2-ConsoleApp1\\2-ConsoleApp1.csproj",
-      "projectName": "2-ConsoleApp1",
-      "projectPath": "C:\\Users\\vorchun\\Desktop\\labs\\kiap-labs\\LR3_Mihalsov\\2-ConsoleApp1\\2-ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\vorchun\\Desktop\\labs\\kiap-labs\\LR3_Mihalsov\\Задание 2\\1-WindowsFormsApp.csproj",
+      "projectName": "1-WindowsFormsApp",
+      "projectPath": "C:\\Users\\vorchun\\Desktop\\labs\\kiap-labs\\LR3_Mihalsov\\Задание 2\\1-WindowsFormsApp.csproj",
       "packagesPath": "C:\\Users\\vorchun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vorchun\\Desktop\\labs\\kiap-labs\\LR3_Mihalsov\\2-ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\vorchun\\Desktop\\labs\\kiap-labs\\LR3_Mihalsov\\Задание 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vorchun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,6 +56,9 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
