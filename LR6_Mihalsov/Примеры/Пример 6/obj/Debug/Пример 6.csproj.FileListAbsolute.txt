@@ -1,0 +1,10 @@
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR6_Mihalsov\Примеры\Пример 6\obj\Debug\Пример 6.csprojAssemblyReference.cache
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR6_Mihalsov\Примеры\Пример 6\obj\Debug\Пример_6.Properties.Resources.resources
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR6_Mihalsov\Примеры\Пример 6\obj\Debug\Пример 6.csproj.GenerateResource.cache
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR6_Mihalsov\Примеры\Пример 6\obj\Debug\Пример 6.csproj.CoreCompileInputs.cache
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR6_Mihalsov\Примеры\Пример 6\bin\Debug\Пример 6.exe.config
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR6_Mihalsov\Примеры\Пример 6\bin\Debug\Пример 6.exe
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR6_Mihalsov\Примеры\Пример 6\bin\Debug\Пример 6.pdb
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR6_Mihalsov\Примеры\Пример 6\obj\Debug\Пример_6.Form1.resources
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR6_Mihalsov\Примеры\Пример 6\obj\Debug\Пример 6.exe
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR6_Mihalsov\Примеры\Пример 6\obj\Debug\Пример 6.pdb
