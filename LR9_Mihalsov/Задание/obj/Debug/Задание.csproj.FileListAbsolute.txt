@@ -1,0 +1,10 @@
+C:\Users\paul\Desktop\labs\kiap-labs\LR9_Mihalsov\Задание\bin\Debug\Задание.exe.config
+C:\Users\paul\Desktop\labs\kiap-labs\LR9_Mihalsov\Задание\bin\Debug\Задание.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR9_Mihalsov\Задание\bin\Debug\Задание.pdb
+C:\Users\paul\Desktop\labs\kiap-labs\LR9_Mihalsov\Задание\obj\Debug\Задание.csprojAssemblyReference.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR9_Mihalsov\Задание\obj\Debug\Задание.Form1.resources
+C:\Users\paul\Desktop\labs\kiap-labs\LR9_Mihalsov\Задание\obj\Debug\Задание.Properties.Resources.resources
+C:\Users\paul\Desktop\labs\kiap-labs\LR9_Mihalsov\Задание\obj\Debug\Задание.csproj.GenerateResource.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR9_Mihalsov\Задание\obj\Debug\Задание.csproj.CoreCompileInputs.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR9_Mihalsov\Задание\obj\Debug\Задание.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR9_Mihalsov\Задание\obj\Debug\Задание.pdb
