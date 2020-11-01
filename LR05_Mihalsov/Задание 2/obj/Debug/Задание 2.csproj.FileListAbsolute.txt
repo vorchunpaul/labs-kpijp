@@ -1,0 +1,7 @@
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR5_Mihalsov\Задание 2\bin\Debug\Задание 2.exe.config
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR5_Mihalsov\Задание 2\bin\Debug\Задание 2.exe
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR5_Mihalsov\Задание 2\bin\Debug\Задание 2.pdb
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR5_Mihalsov\Задание 2\obj\Debug\Задание 2.csprojAssemblyReference.cache
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR5_Mihalsov\Задание 2\obj\Debug\Задание 2.csproj.CoreCompileInputs.cache
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR5_Mihalsov\Задание 2\obj\Debug\Задание 2.exe
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR5_Mihalsov\Задание 2\obj\Debug\Задание 2.pdb

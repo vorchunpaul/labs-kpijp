@@ -1,0 +1,7 @@
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR8_Mihalsov\Примеры\Пример 1\bin\Debug\Пример 1.exe.config
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR8_Mihalsov\Примеры\Пример 1\bin\Debug\Пример 1.exe
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR8_Mihalsov\Примеры\Пример 1\bin\Debug\Пример 1.pdb
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR8_Mihalsov\Примеры\Пример 1\obj\Debug\Пример 1.csprojAssemblyReference.cache
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR8_Mihalsov\Примеры\Пример 1\obj\Debug\Пример 1.csproj.CoreCompileInputs.cache
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR8_Mihalsov\Примеры\Пример 1\obj\Debug\Пример 1.exe
+C:\Users\vorchun\Desktop\labs\kiap-labs\LR8_Mihalsov\Примеры\Пример 1\obj\Debug\Пример 1.pdb
