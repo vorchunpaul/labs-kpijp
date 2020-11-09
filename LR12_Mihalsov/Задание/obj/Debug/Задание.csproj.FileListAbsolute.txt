@@ -1,0 +1,14 @@
+C:\Users\paul\Desktop\labs\kiap-labs\LR10_Mihalsov\Задание\bin\Debug\Задание.exe.config
+C:\Users\paul\Desktop\labs\kiap-labs\LR10_Mihalsov\Задание\bin\Debug\Задание.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR10_Mihalsov\Задание\bin\Debug\Задание.pdb
+C:\Users\paul\Desktop\labs\kiap-labs\LR10_Mihalsov\Задание\obj\Debug\Задание.csprojAssemblyReference.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR10_Mihalsov\Задание\obj\Debug\Задание.csproj.CoreCompileInputs.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR10_Mihalsov\Задание\obj\Debug\Задание.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR10_Mihalsov\Задание\obj\Debug\Задание.pdb
+C:\Users\paul\Desktop\labs\kiap-labs\LR12_Mihalsov\Задание\bin\Debug\Задание.exe.config
+C:\Users\paul\Desktop\labs\kiap-labs\LR12_Mihalsov\Задание\bin\Debug\Задание.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR12_Mihalsov\Задание\bin\Debug\Задание.pdb
+C:\Users\paul\Desktop\labs\kiap-labs\LR12_Mihalsov\Задание\obj\Debug\Задание.csprojAssemblyReference.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR12_Mihalsov\Задание\obj\Debug\Задание.csproj.CoreCompileInputs.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR12_Mihalsov\Задание\obj\Debug\Задание.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR12_Mihalsov\Задание\obj\Debug\Задание.pdb
