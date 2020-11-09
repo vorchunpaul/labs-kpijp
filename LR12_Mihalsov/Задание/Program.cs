@@ -310,7 +310,7 @@ namespace Задание
                         {
                             Console.WriteLine("Введите рейс 1");
                             ind1 = Console.ReadLine();
-                            if (!(1 <= int.Parse(ind1) && int.Parse(ind1) <= ap.CorrectNumberOfPlane))
+                            if (!(1 <= int.Parse(ind1) && int.Parse(ind1) < ap.CorrectNumberOfPlane))
                             {
                                 Console.WriteLine("Не верный диапозон");
                                 goto vvod1;
@@ -332,7 +332,7 @@ namespace Задание
                         {
                             Console.WriteLine("Введите рейс 2");
                             ind2 = Console.ReadLine();
-                            if (!(1 <= int.Parse(ind2) && int.Parse(ind2) <= ap.CorrectNumberOfPlane))
+                            if (!(1 <= int.Parse(ind2) && int.Parse(ind2) < ap.CorrectNumberOfPlane))
                             {
                                 Console.WriteLine("Не верный диапозон");
                                 goto vvod2;

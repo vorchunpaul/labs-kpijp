@@ -1,7 +1,0 @@
-C:\Users\vorchun\Desktop\labs\kiap-labs\LR1_Mihalsov\Project1\bin\Debug\Project1.exe.config
-C:\Users\vorchun\Desktop\labs\kiap-labs\LR1_Mihalsov\Project1\bin\Debug\Project1.exe
-C:\Users\vorchun\Desktop\labs\kiap-labs\LR1_Mihalsov\Project1\bin\Debug\Project1.pdb
-C:\Users\vorchun\Desktop\labs\kiap-labs\LR1_Mihalsov\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
-C:\Users\vorchun\Desktop\labs\kiap-labs\LR1_Mihalsov\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
-C:\Users\vorchun\Desktop\labs\kiap-labs\LR1_Mihalsov\Project1\obj\Debug\Project1.exe
-C:\Users\vorchun\Desktop\labs\kiap-labs\LR1_Mihalsov\Project1\obj\Debug\Project1.pdb
