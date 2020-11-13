@@ -288,8 +288,12 @@ namespace Задание
                         {
                             input = -1;
                         }
+                        catch (System.OverflowException)
+                        {
+                            input = -1;
+                        }
 
-                        if(!(0 < input && input <= ap.listAllInfo().Count))
+                        if (!(0 < input && input <= ap.listAllInfo().Count))
                         {
                             Console.WriteLine("Введено некоретное значение необходимо ввести число от 1 до {0}", ap.listAllInfo().Count);
                             input = -1;
@@ -304,7 +308,6 @@ namespace Задание
                     case 2:
                         string ind1 = "";
                         string ind2 = "";
-
                     vvod1:
                         try
                         {
@@ -324,6 +327,11 @@ namespace Задание
                         catch (System.FormatException)
                         {
                             Console.WriteLine("Данные имеют не верный формат, необходимо ввести цисло от 1 до {0} с маской 000000", ap.CorrectNumberOfPlane);
+                            goto vvod1;
+                        }
+                        catch(System.OverflowException)
+                        {
+                            Console.WriteLine("Число не может быть больше чем 999999");
                             goto vvod1;
                         }
 
@@ -348,7 +356,12 @@ namespace Задание
                             Console.WriteLine("Данные имеют не верный формат, необходимо ввести цисло от 1 до {0} с маской 000000", ap.CorrectNumberOfPlane);
                             goto vvod2;
                         }
-                        
+                        catch (System.OverflowException)
+                        {
+                            Console.WriteLine("Число не может быть больше чем 999999");
+                            goto vvod2;
+                        }
+
                         string i1 = ap[ind1].info();
                         string i2 = ap[ind2].info();
 
@@ -371,7 +384,11 @@ namespace Задание
                         {
                             h = -1;
                         }
-                        if(!(1 <= h && h <= 24))
+                        catch (System.OverflowException)
+                        {
+                            h = -1;
+                        }
+                        if (!(1 <= h && h <= 24))
                         {
                             Console.WriteLine("Необходимо ввести число от 0 до 24");
                         }
