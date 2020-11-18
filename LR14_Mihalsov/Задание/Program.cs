@@ -86,7 +86,7 @@ namespace Задание
             public void setActivity(string activity)
             {
                 this.activity = activity;
-                Loging.Invoke($"Работкник {name}, теперь работает {activity}");
+                Loging.Invoke($"Работкник {name}, теперь {activity}");
             }
         }
         class Engener : Worker, IEngineer
@@ -179,22 +179,54 @@ namespace Задание
             }
 
             List<Worker> workersandengeners = new List<Worker>();
-            foreach (var item in workers)
-                workersandengeners.Add(item);
 
             foreach (var item in Engeners)
                 workersandengeners.Add(item);
+
+            
+            foreach (var item in workers)
+                workersandengeners.Add(item);
+
+            
 
             Console.WriteLine("Отдел:");
             foreach (var item in deportam)
                 Console.WriteLine("Списочный номер {0}, имя {1}", item.getId(), item.getName());
 
-
             Console.WriteLine("\nДеятельность рабочих и инженеров:");
             foreach (var item in workersandengeners)
             {
-                Console.WriteLine("Номер {0}, {1}", item.getId(), item.getActivity());
+                Console.WriteLine("{0}, {1}", item.name, item.getActivity());
             }
+
+            int iinput;
+            do
+            {
+                Console.WriteLine("0. Выход");
+                Console.WriteLine("1. Изменить деятельность рабочего");
+                
+                int.TryParse(Console.ReadLine(), out iinput);
+                switch (iinput)
+                {
+                    case 1:
+                        Console.WriteLine("Выберете рабочего 3-8");
+                        int.TryParse(Console.ReadLine(), out iinput);
+                        if(3 <= iinput && iinput <= 8)
+                        {
+                            Console.WriteLine("Введите деятельность");
+                            string activity = Console.ReadLine();
+                            workersandengeners[iinput].setActivity(activity);
+                        } else
+                        {
+                            Console.WriteLine("Неправельный номер ;(");
+                            iinput = -1;
+                        }
+                        break;
+                    default:
+                        iinput = 0;
+                        break;
+                }
+            } while (iinput != 0);
             Console.ReadKey(true);
         }
     }
