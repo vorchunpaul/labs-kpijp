@@ -187,8 +187,6 @@ namespace Задание
             foreach (var item in workers)
                 workersandengeners.Add(item);
 
-            
-
             Console.WriteLine("Отдел:");
             foreach (var item in deportam)
                 Console.WriteLine("Списочный номер {0}, имя {1}", item.getId(), item.getName());
@@ -215,7 +213,7 @@ namespace Задание
                         {
                             Console.WriteLine("Введите деятельность");
                             string activity = Console.ReadLine();
-                            workersandengeners[iinput].setActivity(activity);
+                            workersandengeners[iinput-3].setActivity(activity);
                         } else
                         {
                             Console.WriteLine("Неправельный номер ;(");
