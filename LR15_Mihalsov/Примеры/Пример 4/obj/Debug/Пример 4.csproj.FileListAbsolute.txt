@@ -1,0 +1,7 @@
+C:\Users\paul\Desktop\labs\kiap-labs\LR15_Mihalsov\Примеры\Пример 4\bin\Debug\Пример 4.exe.config
+C:\Users\paul\Desktop\labs\kiap-labs\LR15_Mihalsov\Примеры\Пример 4\bin\Debug\Пример 4.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR15_Mihalsov\Примеры\Пример 4\bin\Debug\Пример 4.pdb
+C:\Users\paul\Desktop\labs\kiap-labs\LR15_Mihalsov\Примеры\Пример 4\obj\Debug\Пример 4.csprojAssemblyReference.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR15_Mihalsov\Примеры\Пример 4\obj\Debug\Пример 4.csproj.CoreCompileInputs.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR15_Mihalsov\Примеры\Пример 4\obj\Debug\Пример 4.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR15_Mihalsov\Примеры\Пример 4\obj\Debug\Пример 4.pdb
