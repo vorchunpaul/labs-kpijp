@@ -85,7 +85,9 @@ namespace Задание
 
             public void setActivity(string activity)
             {
+                string tmp = this.activity;
                 this.activity = activity;
+                Loging.Invoke($"ДАННЫЕ О СОТРУДНИКЕ БЫЛИ ИЗМЕНЕНЫ {tmp} -> {activity}!");
                 Loging.Invoke($"Работкник {name}, теперь {activity}");
             }
         }
@@ -141,8 +143,8 @@ namespace Задание
 
             List<Engener> Engeners = new List<Engener>
             {
-                new Engener("Кукуш З.С",getNewId(),"S3","KOLIMA3.0"),
-                new Engener("Генадьев Т.З",getNewId(),"S3","KOLIMA4.0"),
+                new Engener("Кукуш З.С",getNewId(),"S3","инженер по охране труда"),
+                new Engener("Генадьев Т.З",getNewId(),"S3","идиолог"),
             };
 
             List<Worker> workers = new List<Worker>
@@ -163,7 +165,7 @@ namespace Задание
             Console.WriteLine("Найм работкников:");
             foreach (var item in Engeners)
             {
-                item.setActivity("наботает над проектом " + item.getActivityProject());
+                item.setActivity(item.getActivityProject());
                 deportam.Add(item);
             }
 
@@ -174,7 +176,7 @@ namespace Задание
             foreach (var item in workers)
             {
                 item.setRang("B1");
-                item.setActivity("работает по спецальности " + works[rnd.Next(0, works.Length)]);
+                item.setActivity(works[rnd.Next(0, works.Length)]);
                 deportam.Add(item);
             }
 
