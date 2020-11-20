@@ -12,7 +12,12 @@ namespace Задание_2
     {
         static void Main(string[] args)
         {
-            int K = 18;
+            int K;
+            do
+            {
+                Console.Write("Введите К = ");
+            } while (!int.TryParse(Console.ReadLine(), out K));
+            
             int KK = 5;
             string path1 = @"F1.txt";
             string path2 = @"F2.txt";
