@@ -1,0 +1,11 @@
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\ConsoleApp1\bin\Debug\lib4lab.dll
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\ConsoleApp1\bin\Debug\lib4lab.pdb
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\ConsoleApp1\bin\Debug\lib4lab.xml
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

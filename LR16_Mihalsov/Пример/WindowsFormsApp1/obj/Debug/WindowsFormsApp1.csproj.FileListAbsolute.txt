@@ -1,0 +1,14 @@
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Пример\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Пример\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Пример\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Пример\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Пример\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Пример\WindowsFormsApp1\bin\Debug\ClassLibrary1.xml
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Пример\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Пример\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Пример\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Пример\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Пример\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Пример\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Пример\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Пример\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

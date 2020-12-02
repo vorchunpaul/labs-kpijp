@@ -1,0 +1,14 @@
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 1\bin\Debug\Задание 1.exe.config
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 1\bin\Debug\Задание 1.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 1\bin\Debug\Задание 1.pdb
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 1\obj\Debug\Задание 1.csprojAssemblyReference.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 1\obj\Debug\Задание_1.Form1.resources
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 1\obj\Debug\Задание_1.Properties.Resources.resources
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 1\obj\Debug\Задание 1.csproj.GenerateResource.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 1\obj\Debug\Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 1\obj\Debug\Задание 1.exe
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 1\obj\Debug\Задание 1.pdb
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 1\bin\Debug\ClassLibrary1.dll
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 1\bin\Debug\ClassLibrary1.pdb
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 1\bin\Debug\ClassLibrary1.xml
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 1\obj\Debug\Задание 1.csproj.CopyComplete

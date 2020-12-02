@@ -1,0 +1,7 @@
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\lib4lab\bin\Release\lib4lab.xml
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\lib4lab\bin\Release\lib4lab.dll
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\lib4lab\bin\Release\lib4lab.pdb
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\lib4lab\obj\Release\lib4lab.csprojAssemblyReference.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\lib4lab\obj\Release\lib4lab.csproj.CoreCompileInputs.cache
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\lib4lab\obj\Release\lib4lab.dll
+C:\Users\paul\Desktop\labs\kiap-labs\LR16_Mihalsov\Задание 2\lib4lab\obj\Release\lib4lab.pdb

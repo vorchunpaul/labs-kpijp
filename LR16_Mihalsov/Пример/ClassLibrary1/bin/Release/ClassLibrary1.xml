@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassLibrary1</name>
+    </assembly>
+    <members>
+        <member name="T:ClassLibrary1.Calculator">
+             
+            Математический класс 
+        </member>
+        <member name="M:ClassLibrary1.Calculator.Summ(System.Int32,System.Int32)">
+             
+            Метод возвращает сумму двух целых чисел 
+             
+        </member>
+        <member name="M:ClassLibrary1.Calculator.Division(System.Int32,System.Int32)">
+             
+            Метод возвращает разность двух целых чисел 
+             
+            /// ///  
+        </member>
+        <member name="M:ClassLibrary1.Calculator.Multiply(System.Int64,System.Int64)">
+             
+            Метод возвращает произведение двух чисел 
+             
+        </member>
+        <member name="M:ClassLibrary1.Calculator.Residual(System.Int32,System.Int32)">
+             
+            Метод возвращает деление двух чисел 
+             
+        </member>
+    </members>
+</doc>
