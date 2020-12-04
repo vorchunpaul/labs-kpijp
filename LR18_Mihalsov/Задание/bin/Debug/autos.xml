@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<Auto id="0000001">
+		<Model>Porsche 911 Turbo</Model>
+		<Year>2011</Year>
+		<Color>Red</Color>
+		<Prise>12000</Prise>
+		<MaxSpeed>320</MaxSpeed>
+	</Auto>
+	<Auto id="0000002">
+		<Model>Porsche 911 Turbo S</Model>
+		<Year>2012</Year>
+		<Color>White</Color>
+		<Prise>15000</Prise>
+		<MaxSpeed>318</MaxSpeed>
+	</Auto>
+	<Auto id="0000003">
+		<Model>Porsche 918 Spyder</Model>
+		<Year>2010</Year>
+		<Color>White</Color>
+		<Prise>230000</Prise>
+		<MaxSpeed>343</MaxSpeed>
+	</Auto>
+	<Auto id="0000004">
+		<Model>Porsche 911 Carrerar</Model>
+		<Year>2018</Year>
+		<Color>Black</Color>
+		<Prise>120000</Prise>
+		<MaxSpeed>290</MaxSpeed>
+	</Auto>
+	<Auto id="0000005">
+		<Model>Porsche Cayman R</Model>
+		<Year>2010</Year>
+		<Color>Green</Color>
+		<Prise>180000</Prise>
+		<MaxSpeed>280</MaxSpeed>
+	</Auto>
+	<Auto id="0000006">
+		<Model>Mercedes-Benz A-Class</Model>
+		<Year>2018</Year>
+		<Color>Black</Color>
+		<Prise>200000</Prise>
+		<MaxSpeed>202</MaxSpeed>
+	</Auto>
+	<Auto id="0000007">
+		<Model>Mercedes-Benz B-Class</Model>
+		<Year>2018</Year>
+		<Color>Blue</Color>
+		<Prise>230000</Prise>
+		<MaxSpeed>202</MaxSpeed>
+	</Auto>
+	<Auto id="0000008">
+		<Model>Mercedes-Benz C-Class</Model>
+		<Year>2018</Year>
+		<Color>Yelow</Color>
+		<Prise>300000</Prise>
+		<MaxSpeed>225</MaxSpeed>
+	</Auto>
+	<Auto id="0000009">
+		<Model>Mercedes-Benz S-Class</Model>
+		<Year>2018</Year>
+		<Color>Blue</Color>
+		<Prise>350000</Prise>
+		<MaxSpeed>350</MaxSpeed>
+	</Auto>
+	<Auto id="0000010">
+		<Model>Mercedes-Benz G-Class</Model>
+		<Year>2018</Year>
+		<Color>Braun</Color>
+		<Prise>320000</Prise>
+		<MaxSpeed>210</MaxSpeed>
+	</Auto>
+</root>
